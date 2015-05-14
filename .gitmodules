@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/tod"]
 	path = sites/all/modules/tod
 	url = https://github.com/bountham/todolist_module_drupal.git
+[submodule "sites/all/modules/custom/todotoday"]
+	path = sites/all/modules/custom/todotoday
+	url = https://github.com/bountham/todolist_module_drupal.git
